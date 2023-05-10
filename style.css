@@ -8,7 +8,7 @@
 --Cream: hsl(30, 38%, 92%);
 
 /*Neutral*/
-
+--very-dark-cyan: hsl(158, 53%, 17%);
 --Very-dark-blue: hsl(212, 21%, 14%);
 --Dark-grayish-blue: hsl(228, 12%, 48%);
 --White: hsl(0, 0%, 100%);
@@ -81,6 +81,7 @@ span{
     margin-left: 0.8rem;
 }
 .cart{
+    cursor: pointer;
     margin-top: 1.6rem;
     width: 15rem;
     background-color: var(--Dark-cyan);
@@ -94,4 +95,7 @@ span{
 .cart img{
     vertical-align: middle;
     margin-right: 0.5rem;
+}
+button:hover{
+    background-color:var(--very-dark-cyan);
 }
