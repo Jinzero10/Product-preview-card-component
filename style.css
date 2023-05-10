@@ -33,7 +33,9 @@ main{
     max-width: 37.2rem;
     border-radius: 20px;
 }
-
+.rigth_card_section{
+    margin-right: 2rem;
+}
 .perfume_image{
     display: block;
     max-width: 18.6rem;
