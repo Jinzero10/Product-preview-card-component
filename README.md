@@ -8,5 +8,5 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [solution](git@github.com:Jinzero10/Product-preview-card-component.git)
+- Solution URL: [solution](https://github.com/Jinzero10/Product-preview-card-component)
 - Live Site URL: [Live Site](https://product-card-component-jinzer0.netlify.app/)
